@@ -1,0 +1,8 @@
+control,category,purpose
+MFA,Identity,Reduce account takeover
+Least privilege,Identity,Limit permissions
+Private database,Network,Reduce exposure
+TLS,Data,Protect data in transit
+Encryption at rest,Data,Protect stored data
+Central logging,Monitoring,Support detection and investigation
+Backups,Recovery,Support recovery from incidents
